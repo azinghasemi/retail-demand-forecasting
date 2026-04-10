@@ -7,7 +7,7 @@
 
 > **Forecast daily grocery demand across 5 retail stores and design the optimal discount calendar that maximises revenue while reducing food waste.** XGBoost achieves R² = 0.90 on a 30,400-row dataset spanning 2022–2024.
 
-**[Live Demo (Streamlit) →](https://your-app.streamlit.app)**
+**[Live Demo (Streamlit) →](https://retail-demand-forecasting-mhlbf6wwqhzqgepypmhxg8.streamlit.app)**
 
 ---
 
